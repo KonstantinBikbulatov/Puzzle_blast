@@ -9,7 +9,9 @@ menuState = false;
 
 //Запускаем уровень записывая блоки отрисовки 
 function startLevel() {
-
+    
+    drawUpdate = [];
+    
     drawUpdate[0] = drawSprite;
     drawUpdate[1] = drawBlock;
     drawUpdate[2] = drawString;
