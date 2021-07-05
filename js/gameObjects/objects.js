@@ -33,7 +33,7 @@ textLevelStep = new GameText(gameLevels[currentLevel].steps, +190, 320, 60, 220)
 
 btnContinueGame = new Button(-485, 350, 300, 570, 100, "ПРОДОЛЖИТЬ", continueLevel);
 btnRestartLevel = new Button(-485, 500, 300, 570, 100, "ПЕРЕИГРАТЬ", reset);
-btnRestartGame = new Button(-485, 350, 300, 570, 100, "НАЧАТЬ СНАЧАЛО", restartGame);
+btnRestartGame = new Button(-485, 350, 300, 570, 100, "НАЧАТЬ СНАЧАЛА", restartGame);
 
 btnCheckMove = new Button(-600, 780, 270, 1200, 70, "ПРОВЕРИТЬ ХОД", stateMoves);
 
