@@ -12,12 +12,6 @@ const linkBomb = "img/bomb.png";
 const linkChange = "img/change.png";
 const linkLevel = "img/level.png";
 
-const linkGreen = "img/blocks/green.png";
-const linkBlue = "img/blocks/blue.png";
-const linkPurple = "img/blocks/purple.png";
-const linkRed = "img/mblocks/red.png";
-const linkYellow = "img/blocks/yellow.png";
-
 let texButton = new Image();
 texButton.src = "img/panelScore.png";
 
