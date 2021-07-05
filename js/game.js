@@ -44,7 +44,7 @@ function drawBlock() {
     }
 }
 
-// Отисовка текста
+// Отрисовка текста
 function drawString() {
 
     bonusBombBack.drawString();
